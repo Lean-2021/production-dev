@@ -14,7 +14,7 @@
 //    Route::redirect('/', function () {
 //        redirect()->route('home');
 //    });
-    Route::view('*', 'errors.404');
+    Route::view('/', 'errors.404');
     //    Route::redirect('/', '/error');
 
 
