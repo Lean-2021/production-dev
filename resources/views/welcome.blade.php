@@ -25,13 +25,13 @@
 <h3>Este framework es: {{ $name }}</h3>
 
 
-<button type="button" class="btn btn-lg btn-danger" data-bs-toggle="popover" data-bs-title="Popover title"
-        data-bs-content={!!<iframe class="img-thumbnail" width="560" height="315"
-        src="https://www.youtube.com/embed/aAxlsmHtro4?si=jpJ12cLSIZVWIpJm"
-        title="YouTube video player" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>!!}>Click to toggle popover
-</button>
+{{--<button type="button" class="btn btn-lg btn-danger" data-bs-toggle="popover" data-bs-title="Popover title"--}}
+{{--        data-bs-content={!!<iframe class="img-thumbnail" width="560" height="315"--}}
+{{--        src="https://www.youtube.com/embed/aAxlsmHtro4?si=jpJ12cLSIZVWIpJm"--}}
+{{--        title="YouTube video player" frameborder="0"--}}
+{{--        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"--}}
+{{--        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>!!}>Click to toggle popover--}}
+{{--</button>--}}
 
 
 <!-- Button trigger modal -->
