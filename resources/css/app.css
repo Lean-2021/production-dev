@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@foreach($colors as $color)
+.image {
+    background-image: url("{{ asset('img/1338376.jpg')}} ");
+}
+@endforeach
