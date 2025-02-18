@@ -55,7 +55,7 @@
         México
     </label>
 
-    <input type="text" @readonly(true)>
+    <input type="text" @readonly(false)>
 </form>
 </body>
 {{--@includeIf('prueba',['color' => 'red'])--}}
